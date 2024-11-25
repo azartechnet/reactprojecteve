@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactprojecteve/static/css/main.d221dc40.css",
+    "main.js": "/reactprojecteve/static/js/main.ee328c17.js",
+    "static/media/c1.jpeg": "/reactprojecteve/static/media/c1.5024fa1392f8f730a315.jpeg",
+    "static/media/c3.jpeg": "/reactprojecteve/static/media/c3.b594f32b29f380ab4c0e.jpeg",
+    "static/media/c2.jpeg": "/reactprojecteve/static/media/c2.b1acf8edd975826f160d.jpeg",
+    "index.html": "/reactprojecteve/index.html",
+    "main.d221dc40.css.map": "/reactprojecteve/static/css/main.d221dc40.css.map",
+    "main.ee328c17.js.map": "/reactprojecteve/static/js/main.ee328c17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.ee328c17.js"
+  ]
+}
